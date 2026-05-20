@@ -69,7 +69,7 @@ Show your ❤️ and support by giving a ⭐. Any suggestions and pull request a
 
 ### 📝 License
 
-MIT © [Tito Georg David](https://github.com/davidtito1992)
+MIT © [Tito George David](https://github.com/davidtito1992)
 
 ## :rocket: Usage
 ```javascript
